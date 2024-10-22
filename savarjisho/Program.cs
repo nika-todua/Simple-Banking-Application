@@ -1,7 +1,7 @@
 ﻿using System;
-using savarjisho;
+using banking;
 
-namespace savarjisho
+namespace banking
 {
     internal class Program
     {
